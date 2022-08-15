@@ -19,7 +19,7 @@ dizisinin Binary-Search-Tree aşamalarını yazınız.
 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-> ROOT:5  
+ ROOT:5  
 --- 
 >1.Eklenecek sayı = 8  
 8>5 olduğu için  5'in  sağına ekliyoruz.
@@ -48,6 +48,7 @@ dizisinin Binary-Search-Tree aşamalarını yazınız.
 >9.Eklenecek sayı = 0  
 0<5 ve 0<1 olduğu için  1'in  soluna ekliyoruz.  
 
+# [Patika.dev](www.patika.dev)
 
 
 
